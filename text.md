@@ -1,24 +1,20 @@
 # A Proposal: Building tools and rethinking the process where we assemble, deliberate, and reach consensus
 
 - Chih Hao Yu
-- department of digital + media, class 2014, risd
+- mfa candidate, department of digital + media, risd
 - September 9, 2013
 
 ## Background
 
 We live in a society consists of interconnected, complex systems. The production and labour system, the financial system, legal system, education system, and the political system. They define parameters and form preferences around which each of our lives is conducted and our choices are made. 
 
-Different institutions embody the ideas and purposes of each of these systems. They act with far greater power than any of the individuals who has formed and empowered them. It is these institutions which effectively shape the society today, thus the lives of every one of us.
+Different institutions embody the ideas and purposes of each of these systems. They act with far greater power than any of the individuals who has formed and empowered them. It is these institutions which effectively shape the society today, thus the lives of every one of us. However, it is often the case that these institutions are becoming not a greenhouse, but obstructions against creativity and change, both internal and external.
 
-However, it is not foreign for us to see these institutions become not a greenhouse, but an obstruction of creativity and change.
+Institutions are so common in our lives these days that in our day-to-day conversations, we talk of them as if they were people like us. Sometimes just for the ease of conversation, we rarely think about the ramification of such simplification. There is real danger, in this case, behind anthropomorphism, this unconscious equation we all have between man-made objects and men. By making institutions sound like people, we risk to blur the line of responsibility. We tend to forget that institutions are made of people. Ultimately, only people have the instruments of intelligence. Only people can make decisions. Only people can act upon the physical world. Institutions are not people. It does not have family or friends. It does not have emotions or believes. People do. Institutions are machines, people are not.
 
-Intriguing changes happen when a person is put behind a desk, a name tag, or a business card. A person became from an independent being to a part of something external. Belongingness and duty take over individuality and moral. Principles become policies, work ethic overrides ethics.
+Coincidentally, the principle of "division of labour" tempts to take humanity out of us, and make us machines that are parts of a bigger machine. It encourages us to focus our attention on performing specific tasks, leaving us no extra time to take a look at the bigger picture, nor the energy to do something about things that we do not like. It has made our current system of production and labour "efficient and productive" in a global scale, produced goods to sustain the modern sector of the world's population. It has also reduced the value of our lives to a list of job description, divided and alienated ourselves from each other. When a person is put behind a desk, a name tag, or a business card, he or she would instantly, from an independent being, becoming a part of something foreign, unfamiliar, and much larger to his or her own identity. Belongingness and duty take over individuality and moral. Principles become policies, work ethic overrides ethics.
 
-In our day-to-day conversations, we talk of institutions as if they were people like us. There is real danger, in this case, behind anthropomorphism, this unconscious equation we all have between man-made objects and men. By making institutions sound like people, we risk to blur the line of responsibility. We tend to forget that institutions are made of people. Ultimately, only people have the instruments of intelligence. Only people can make decisions. Only people can act upon the physical world. Institutions are not people. It does not have family or friends. It does not have emotions or believes. People do. Institutions are machines, people are not.
-
-Coincidentally, the principle of "division of labour" tempts to take humanity out of us, and make us a part of the machine. It encourages us to focus our attention on performing specific tasks, leaving us no extra time to take a look at the bigger picture, nor the energy to do something about things that we do not like. It  has made our current system of production and labour "efficient and productive" in a global scale, produced goods to sustain the modern sector of the world's population. It has also reduced the value of our lives to a list of job description, divided and alienated ourselves from each other.
-
-And there is the monetary system based on debt. Every men is born indebted. This leaves us no choice except to participate in the society as is to repay that debt. The ability to question such existing society become a luxury that most of us simply cannot afford to have. On top of that, most of the time it just seems too intimidating for any one of us to try to tackle the entire system on his own. Each of these systems has made each other and evolved along with the entire history of the human kind. The way each of them operate is both the cause and consequence of the operations of the others. The scale and complexity of these systems have become so overwhelming that we as individuals cannot anymore understand, let alone control, these of our own collective creation.
+And there is the monetary system based on debt. Maurizio Lazzarato speaks in his book _The Making of the Indebted Man_ that "every men is born indebted." This leaves us no choice except to participate in the society as is to repay that debt. The ability to question such existing society become a luxury that most of us simply cannot afford to have. On top of that, most of the time it just seems too intimidating for any one of us to try to tackle the entire system on his own. Each of these systems has made each other and evolved along with the entire history of the human kind. The way each of them operate is both the cause and consequence of the operations of the others. The scale and complexity of these systems have become so overwhelming that we as individuals cannot anymore understand, let alone control, these of our own collective creation.
 
 For understanding these systems, we have disciplines in academia to study them using scientific approach, the legitimate way of studying any phenomenon in the universe. Hypotheses and theories are produced by researchers and scholars in academia. By nature of the academia, it discloses its finding without judgment, or in other words, being political. This way, the so called, if ever existed, neutrality of academia can be preserved, while if it is or not beneficial for the society remains highly questionable.
 
@@ -66,7 +62,7 @@ Perhaps it is apt to call this "new way" "digital collaborative democracy." This
 
 ## Bring out the public
 
-Stealing an important observation from the book The Death and Life of Great American Cities by Jane Jacobs, successful cities are those with safe sidewalks. How to keep the sidewalks safe? Not the frequent patrol of police, nor the security cameras. It requires active public lives that take place on the sidewalks, in the same time, a well-defined boundary, both physical and psychological, to protect what is private. This is a scenario that is analogous to the challenges we are facing today. A better society will protect and enrich the lives of those who helped building it. The sidewalk of those who built their houses facing away from it is never going to be a safe one to walk on.
+Stealing an important observation from the book _The Death and Life of Great American Cities_ by Jane Jacobs, successful cities are those with safe sidewalks. How to keep the sidewalks safe? Not the frequent patrol of police, nor the security cameras. It requires active public lives that take place on the sidewalks, in the same time, a well-defined boundary, both physical and psychological, to protect what is private. This is a scenario that is analogous to the challenges we are facing today. A better society will protect and enrich the lives of those who helped building it. The sidewalk of those who built their houses facing away from it is never going to be a safe one to walk on.
 
 Therefore, how to bring "the public side" out of individuals is of paramount importance to the success of this project. To raise the will, or lower the threshold for people to engage in public affairs. After all, this project is not aiming to pull people out of the Matrix and fight for humanity while living underground, traveling in pipes. Although, it is identically difficult to change one's mindset if the alternative is just not visible.
 
@@ -78,6 +74,12 @@ One important step is to keep the people easily informed. Information is key to 
 A wide range of newly founded projects and phenomena are on the horizon. The freedom of information movement to make governments transparent, open-source hardware and 3D printing to democratize the means of production, social enterprises staring in Delaware, new models of localized micro economies emerging all over the world to put people before profit. These projects are growing to gradually replace the current unsustainable version of capitalism and free market economy. Properties will still be private, the market will still be free, but the people operate within it will change and boundaries will be set where there will be things that the market should not touch, and money cannot buy.
 
 This project is aiming to be the missing piece, the glue, the catalyst, the platform, the stimulus of this type of new, self-directed, socially-aware, very-large-scale collaboration.
+
+## Experiments
+
+Prototypes of this project will be built based on Git, like Github, the web site which this text is hosted. Git is a distributed version control system designed with the philosophy aligned with the ideal of this project. 
+
+The first iteration of the prototype will be building a collaborative graphical creative tool.
 
 
 ## Hosting
