@@ -70,17 +70,12 @@ Stealing an important observation from the book The Death and Life of Great Amer
 
 Therefore, how to bring "the public side" out of individuals is of paramount importance to the success of this project. To raise the will, or lower the threshold for people to engage in public affairs. After all, this project is not aiming to pull people out of the Matrix and fight for humanity while living underground, traveling in pipes. Although, it is identically difficult to change one's mindset if the alternative is just not visible.
 
-One important step is to keep the people easily informed. Information is key to raise awareness and triggering actions. We are interconnected more than ever in the history of men. Information is available everywhere. However, we use that connectivity for sheer entertainment, simply because that is all is provided with convenience. 
+One important step is to keep the people easily informed. Information is key to raise awareness and triggering actions. We are interconnected more than ever in the history of men. Information is available everywhere. However, we use that connectivity for sheer entertainment, simply because that is all is provided with convenience.
 
 
+## Good wishes and journey ahead
 
-Yet unlike technology, the direction of our society cannot be determined by an entrepreneur, no matter how brilliant he or she is.
-
-
-
-
-
-A wide range of newly founded projects and phenomena are on the horizon. The freedom of information movement to make governments transparent, open-source hardware and 3D printing to democratize the modes of production, social enterprises staring in Delaware, new models of localized micro economies emerging all over the world to put people before profit. These projects are growing to gradually replace the current unsustainable version of capitalism and free market economy. Properties will still be private, the market will still be free, but the people operate within it will change and boundaries will be set where there will be things that the market should not touch, and money cannot buy.
+A wide range of newly founded projects and phenomena are on the horizon. The freedom of information movement to make governments transparent, open-source hardware and 3D printing to democratize the means of production, social enterprises staring in Delaware, new models of localized micro economies emerging all over the world to put people before profit. These projects are growing to gradually replace the current unsustainable version of capitalism and free market economy. Properties will still be private, the market will still be free, but the people operate within it will change and boundaries will be set where there will be things that the market should not touch, and money cannot buy.
 
 This project is aiming to be the missing piece, the glue, the catalyst, the platform, the stimulus of this type of new, self-directed, socially-aware, very-large-scale collaboration.
 
