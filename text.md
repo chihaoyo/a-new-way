@@ -1,7 +1,7 @@
 # A Proposal: Building tools and rethinking the process where we assemble, deliberate, and reach consensus
 
 - Chih Hao Yu
-- mfa candidate, department of digital + media, risd
+- MFA candidate, Department of Digital + Media, Rhode Island School of Design
 - September 9, 2013
 
 ## Background
