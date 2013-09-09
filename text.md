@@ -82,10 +82,10 @@ This project is aiming to be the missing piece, the glue, the catalyst, the plat
 
 ## Hosting
 
-This text is hosted on github at https://github.com/chihaoyo/a-new-way.
+This text is hosted on github at https://github.com/chihaoyo/a-new-way/blob/master/text.md
 
 
 ## License
 
 A New Way by Chih Hao Yu is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
-Based on a work at https://github.com/chihaoyo/a-new-way.
+Based on a work at https://github.com/chihaoyo/a-new-way
