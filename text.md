@@ -39,27 +39,27 @@ The challenges we face today are outcomes of our lack of engagement to the proce
 
 ## A new way
 
+Imagine a conference room sat with fifteen people. Now imagine thousands, or hundreds of thousands of people in the same space. That is powerful and fearful at the same time. How can we make that space into a democratic platform of discourse? With this ambition in mind, we need something new.
+
 A "new way" to converge information and opinions has to be far more out-reaching, efficient, democratic, and collaborative than anything we have today. And this project is aimed at finding, or contributing in the finding of this "new way" to a better future.
 
-Imagine a conference room sat with fifteen people. Now imagine thousands, or hundreds of thousands of people in the same space. That is powerful and fearful at the same time. How can we make that space into a democratic platform of discourse?
-
-Imagine how the discourse will unfold. First we have to recognize that there are challenges and they are pressing issues waiting to be addressed. Then we sit down together, whether physically or not, define those challenges, list reference resources, name additional research topics, think of possible scenarios, propose solutions, forecast outcome, adjust the preconditions accordingly, then try again.
+Imagine how the discourse will unfold. First we have to recognize that there are challenges and they are pressing issues waiting to be addressed. Then we sit down together, whether physically or not, define those challenges, list reference resources, name additional research topics, think of possible scenarios, propose solutions, forecast outcome, adjust the preconditions accordingly, then try again. With the magnitude of the "discussion," the number of perspectives and ideas that needs integration would be amazingly huge.
 
 Having that said, we need to look for some helping hands outside of our physical and biological limitations.
 
 We are, and always will be, living at the peak of technology, at least in the near future, where things invented are going obsolete in the matter of weeks, even days. The advance of technology is the part of our nature, to strive to prove the capability of us as human beings. Innovations in both engineering and design have extended our capabilities beyond anything we can ever imagine.
 
-However, it is an interesting contrast to point out that while technology has advanced in great magnitude over the years, the structure and rules of our society remain largely unchanged. Even with all the technologies in hand, people are still filling out forms around the world and hand them to clerks. It is not the question of invention, but deployment. It may even be fair to say that the way our society works has actually become an, if not the only, obstruction of creativity and innovation.
+It is an interesting contrast to point out that while technology has advanced in great magnitude over the years, the structure and rules of our society remain largely unchanged. Even with all the technologies in hand, people are still filling out forms around the world and hand them to clerks. It is not the question of invention, but deployment. It may even be fair to say that the way our society works has actually become an, if not the only, obstruction of creativity and innovation.
 
 Perhaps this question is worth asking: How can the society adapt to us, the citizens, as quickly as technologies do, to fit the needs of the people?
 
 The Internet is a great foundation to facilitate such change. It is pervasive, the entrance threshold is lowering rapidly. It has a set of standards on top of a relatively global and independent infrastructure. It is just that we need a better tool of organizing all the six billion different noise in the room.
 
-We do have a way to do that. We elect representatives into the governmental institutions to deliver our voice, in theory, in our stead. However, if we really look closely, representative democracy is essentially a compromise to the very principle of democracy. It is designed knowing that given the physical constraints, a fully direct democracy with no hierarchy was practically impossible to implement.
+We do have a way to do that. We elect representatives. We entrust our power to them to make them go into the governmental institutions to deliver our voice, in theory, in our stead. However, if we really look closely, representative democracy is essentially a compromise to the very principle of democracy. It is designed knowing that given the physical constraints, a fully direct democracy with no hierarchy was practically impossible to implement.
 
 What if it is possible now? How can we get everyone in the room now? Can we rapidly update our social structures and rules like never before?
 
-Perhaps it is apt to call this "new way" "digital collaborative democracy." This new mode of democracy might just be an alternative paradigm society and various institutions mentioned which is currently structured hierarchically.
+Perhaps it is apt to call this "new way" "digital collaborative democracy." This new mode of democracy might just be an alternative paradigm for the society and various institutions mentioned which is currently structured hierarchically.
 
 
 ## Bring out the public
@@ -68,7 +68,7 @@ Stealing an important observation from the book _The Death and Life of Great Ame
 
 Therefore, how to bring "the public side" out of individuals is of paramount importance to the success of this project. To raise the will, or lower the threshold for people to engage in public affairs. After all, this project is not aiming to pull people out of the Matrix and fight for humanity while living underground, traveling in pipes. Although, it is identically difficult to change one's mindset if the alternative is just not visible.
 
-One important step is to keep the people easily informed. Information is key to raise awareness and triggering actions. We are interconnected more than ever in the history of men. Information is available everywhere. However, we use that connectivity for sheer entertainment, simply because that is all is provided with convenience.
+One important step is to keep the people easily informed. Information is key to raise awareness and triggering actions. We are interconnected more than ever in the history of men. Information is available everywhere. However, we use that connectivity now for sheer entertainment, simply because that is all is provided with convenience. If only we could make relevant information as accessible as the MTV shows. As for how to do that, it is for now out of the scope of this proposal.
 
 
 ## Good wishes and journey ahead
@@ -77,11 +77,12 @@ A wide range of newly founded projects and phenomena are on the horizon. The fre
 
 This project is aiming to be the missing piece, the glue, the catalyst, the platform, the stimulus of this type of new, self-directed, socially-aware, very-large-scale collaboration.
 
-## Experiments
+
+## Prototypes and experiments
 
 Prototypes of this project will be built based on Git, like Github, the web site which this text is hosted. Git is a distributed version control system designed with the philosophy aligned with the ideal of this project. 
 
-The first iteration of the prototype will be building a collaborative graphical creative tool.
+The first iteration of the prototype will be building a collaborative graphical creative tool. It can be used to run experiments on works that's traditionally done individually and collaboratively. It will be interesting to observe the process of such collaboration, evaluate the outcome, and have feedback from the collaborators.
 
 
 ## Hosting
