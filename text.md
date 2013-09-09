@@ -1,8 +1,8 @@
 # A Proposal: Building tools and rethinking the process where we assemble, deliberate, and reach consensus
 
-- Chih Hao Yu
-- department of digital + media, class 2014, risd
-- September 9, 2013
+Chih Hao Yu
+department of digital + media, class 2014, risd
+September 9, 2013
 
 ## Background
 
