@@ -6,11 +6,11 @@
 
 ## Background
 
-We live in a society consists of interconnected, complex systems. The system of production and labour, the financial system, legal system, education system, and the political system. They define parameters and form preferences around which each of our lives is conducted and our choices are made. 
+We live in a society consists of interconnected, complex systems. The production and labour system, the financial system, legal system, education system, and the political system. They define parameters and form preferences around which each of our lives is conducted and our choices are made. 
 
 Different institutions embody the ideas and purposes of each of these systems. They act with far greater power than any of the individuals who has formed and empowered them. It is these institutions which effectively shape the society today, thus the lives of every one of us.
 
-However, it is familiar for us to see these institutions become not a greenhouse, but an obstruction of creativity and change.
+However, it is not foreign for us to see these institutions become not a greenhouse, but an obstruction of creativity and change.
 
 Intriguing changes happen when a person is put behind a desk, a name tag, or a business card. A person became from an independent being to a part of something external. Belongingness and duty take over individuality and moral. Principles become policies, work ethic overrides ethics.
 
@@ -61,7 +61,7 @@ We do have a way to do that. We elect representatives into the governmental inst
 
 What if it is possible now? How can we get everyone in the room now? Can we rapidly update our social structures and rules like never before?
 
-Perhaps it is apt to call this "new way" "digital collaborative democracy."
+Perhaps it is apt to call this "new way" "digital collaborative democracy." This new mode of democracy might just be an alternative paradigm society and various institutions mentioned which is currently structured hierarchically.
 
 
 ## Bring out the public
