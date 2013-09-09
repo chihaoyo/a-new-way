@@ -84,4 +84,13 @@ A wide range of newly founded projects and phenomena are on the horizon. The fre
 
 This project is aiming to be the missing piece, the glue, the catalyst, the platform, the stimulus of this type of new, self-directed, socially-aware, very-large-scale collaboration.
 
-**This text is hosted at github.com/chihaoyo/a-new-way under the creative license.**
+
+## Hosting
+
+This text is hosted on github at https://github.com/chihaoyo/a-new-way.
+
+
+## License
+
+A New Way by Chih Hao Yu is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+Based on a work at https://github.com/chihaoyo/a-new-way.
