@@ -16,7 +16,7 @@ Coincidentally, the principle of "division of labour" tempts to take humanity ou
 
 One particular type of institution where this phenomenon is easily visible is the financial institutions, operated on the basis of the modern money mechanics. We simply do not question  the existence of these powerful institution. Money is such an essential existence to our day lives, our past, present, and future relies on money. However, money nowadays is created out of debt due to the worldwide adoption of the fractional reserve banking system. Maurizio Lazzarato speaks in his essay _The Making of the Indebted Man_ that "every man is born indebted." This leaves us no choice except to participate in the society as is as soon as we can to repay that debt. To question such existing society is a luxury that most of us simply cannot afford to have. 
 
-Once something is taken for granted, it gains a life of its own, evolving without control. Each of these systems that forms our society has, since before any of us alive on earth was born, grown to such complexity that it is just too intimidating for any one of us to try to tackle on his own, even if they want to. These systems also influence each other. They are indeed interconnected. The way each of them operate is both the cause and consequence of the operations of the others. They have become so overwhelmingly big and pervasive that we as individuals cannot anymore understand, let alone control, these of our own collective creation.
+Once something is taken for granted, it gains a life of its own, evolving unnoticed, uncontrolled. Each of these systems that forms our society has, since before any of us alive on earth was born, grown to such complexity that it is just too intimidating for any one of us to try to tackle on his own, even if they want to. These systems also influence each other. They are indeed interconnected. The way each of them operate is both the cause and consequence of the operations of the others. They have become so overwhelmingly big and pervasive that we as individuals cannot anymore understand, let alone control, these of our own collective creation.
 
 To crack these systems, we have disciplines in academia to study them, adopting scientific approach, the legitimate way of studying any phenomenon in the universe. Hypotheses and theories are produced by researchers and scholars in academia. By nature of the academia, it discloses its finding without judgment. It avoids being political. This way, the so called, if ever existed, neutrality of academia can be preserved, while if it is or not beneficial for the society remains highly questionable.
 
@@ -62,27 +62,35 @@ What if it is possible now? How can we get everyone in the room now? Can we rapi
 Perhaps it is apt to call this "new way" "digital collaborative democracy." This new mode of democracy might just be an alternative paradigm for the society and various institutions mentioned which is currently structured hierarchically.
 
 
-## Bring out the public
+## Make the sidewalk safe again
 
 Stealing an important observation from the book _The Death and Life of Great American Cities_ by Jane Jacobs, successful cities are those with safe sidewalks. How to keep the sidewalks safe? Not the frequent patrol of police, nor the security cameras. It requires active public lives that take place on the sidewalks, in the same time, a well-defined boundary, both physical and psychological, to protect what is private. This is a scenario that is analogous to the challenges we are facing today. A better society will protect and enrich the lives of those who helped building it. The sidewalk of those who built their houses facing away from it is never going to be a safe one to walk on.
 
-Therefore, how to bring "the public side" out of individuals is of paramount importance to the success of this project. To raise the will, or lower the threshold for people to engage in public affairs. After all, this project is not aiming to pull people out of the Matrix and fight for humanity while living underground, traveling in pipes. Although, it is identically difficult to change one's mindset if the alternative is just not visible.
+How to bring "the public side" out of individuals is of paramount importance to the success of this project. This project will commit to raise the interest, or lower the threshold, for people to engage in public affairs. It is not aiming to pull people out of _The Matrix_ and fight for humanity while living underground, traveling in pipes. It is aiming, however, to break the self-deceiving illusion that "there's nothing wrong" or the dishonest, passive thinking that "it is how it is" or "there is nothing we can do."
 
-One important step is to keep the people easily informed. Information is key to raise awareness and triggering actions. We are interconnected more than ever in the history of men. Information is available everywhere. However, we use that connectivity now for sheer entertainment, simply because that is all is provided with convenience. If only we could make relevant information as accessible as the MTV shows. As for how to do that, it is for now out of the scope of this proposal.
+One important step is to keep the people informed. Information is key to raise awareness and triggering actions. We are interconnected more than ever in the history of men. Information is available everywhere. However, we use that connectivity now for sheer entertainment, simply because that is all is provided with convenience. We must reverse our habit from consuming what is given to acquiring what is relevant.
+
+This project must make sure that the delivery of relevant information be integrated into the everyday life seamlessly.
+
+People are forgetting. The current design of the mass media also makes sure that we forget what happened. Without the past as a reference point, there will be no place for us to ground ourselves in this ocean of information. A well-designed, accessible, tagged, searchable archive of all information is vital for all the reason.
+
+The other is to provide a sense of purpose and belonging.
 
 
-## Good wishes and journey ahead
+## Vision
 
-A wide range of newly founded projects and phenomena are on the horizon. The freedom of information movement to make governments transparent, open-source hardware and 3D printing to democratize the means of production, social enterprises staring in Delaware, new models of localized micro economies emerging all over the world to put people before profit. These projects are growing to gradually replace the current unsustainable version of capitalism and free market economy. Properties will still be private, the market will still be free, but the people operate within it will change and boundaries will be set where there will be things that the market should not touch, and money cannot buy.
+A wide range of newly founded projects and phenomena are on the horizon. The freedom of information movement to make governments transparent, open-source hardware and 3D printing to democratize the means of production, social enterprises staring in Delaware, new models of localized micro economies emerging all over the world to put people before profit. These projects, in my personal believes, are growing to gradually replace the current, unsustainable version of capitalism and the so-called free market economy. 
 
-This project is aiming to be the missing piece, the glue, the catalyst, the platform, the stimulus of this type of new, self-directed, socially-aware, very-large-scale collaboration.
+This project is inspired by the talk _How the Internet Will (One Day) Transform Government_ in which Clay Shirky spoke enthusiastically about the technology that can bring forth the full potential of the power of a democratic group. Michael Sandel in his book _What Money Can't Buy_ speaks about the moral limit of the market. Whether any individual agrees or disagrees with his argument is of little significance. However, if we can have a platform where a large group of people can initiate, examine, debate, modify, agree on this list of things which money cannot buy, this list becomes legitimate and binding to those who signed up in the first place.
+
+This project is aiming to be the platform. The missing piece, the glue, the catalyst, and the stimulus of this type of new, self-directed, socially-aware, very-large-scale collaboration. To truly empower each and every member of the community, whether a city or a classroom, in the process of decision-making, to give the power back to people.
 
 
 ## Prototypes and experiments
 
-Prototypes of this project will be built based on Git, like Github, the web site which this text is hosted. Git is a distributed version control system designed with the philosophy aligned with the ideal of this project. 
+Prototypes of this project will be built based on Git, like Github, the web site on which this text is hosted. Git is a distributed version control system designed with the philosophy aligned with the ideal of this project. 
 
-The first iteration of the prototype will be building a collaborative graphical creative tool. It can be used to run experiments on works that's traditionally done individually and collaboratively. It will be interesting to observe the process of such collaboration, evaluate the outcome, and have feedback from the collaborators.
+The first iteration of the prototype will be building a collaborative graphical creative tool. It can be used to run experiments on groups of people under various conditions and goals that are traditionally achieved individually or collaboratively. Close observation will be done on the process of such collaboration with detailed documentation. Each stage of the outcome will be evaluated, and the feedback from the collaborators will be very important to consider as well.
 
 
 ## Hosting
@@ -93,4 +101,4 @@ This text is hosted on github at https://github.com/chihaoyo/a-new-way/blob/mast
 ## License
 
 A New Way by Chih Hao Yu is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
-Based on a work at https://github.com/chihaoyo/a-new-way
+Based on works at https://github.com/chihaoyo/a-new-way
