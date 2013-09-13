@@ -81,7 +81,7 @@ People are forgetting fast nowadays. The mainstream media outlet now is designed
 This project will also create a community. Much like a group of volunteers, a cause, a belief that's shared among participants. Through the process of reaching consensus, participants will exchange ideas, challenge each other while creating something new together. With a good interaction and feedback system designed around that process, a community will form naturally. A common Chinese saying is this: you don't really know each other until you had a fight. (不打不相識)
 
 
-## Vision
+## Outlook
 
 A wide range of newly founded projects and phenomena are on the horizon. The freedom of information movement to make governments transparent, open-source hardware and 3D printing to democratize the means of production, social enterprises staring in Delaware, new models of localized micro economies emerging all over the world to put people before profit. These projects, in my personal believes, are growing to gradually replace the current, unsustainable version of capitalism and the so-called free market economy. 
 
@@ -95,6 +95,8 @@ This project is aiming to be the platform. The missing piece, the glue, the cata
 Prototypes of this project will be built based on _git_, like _Github_, the web site on which this text is hosted. _git_ is a distributed version control system designed with the philosophy aligned with the ideal of this project. It allows all participants to have full access of the content of the project. It enables forking and merging, meaning there can be multiple versions of the project existing in the same time, and those versions can also be merged under different conditions.
 
 The first iteration of the prototype will be building a collaborative graphical creative tool. It can be used to run experiments on groups of people under various conditions and goals that are traditionally achieved individually or collaboratively. Close observation will be done on the process of such collaboration with detailed documentation. Each stage of the outcome will be evaluated, and the feedback from the collaborators will be very important to consider as well.
+
+Documenting the dynamics of collaboration is difficult. The Observer Effect illustrates that the act of observation changes the behavior, thus making the observation less true. 
 
 ...
 
