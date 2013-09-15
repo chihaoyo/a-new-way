@@ -1,4 +1,4 @@
-This project is creating new system of organizing people and information, in order to facilitate collaboration in a very large scale, code-named **PI**. 
+This project is creating new system of organizing people and information, as a mean to facilitate collaboration in a very large scale, code-named **PI**. 
 
 Contrasting from various traditional modes of collaboration, **PI** is a platform and process rethought to bring people together without hierarchy, empower them with well-architected information, and facilitate democratic discourse and decision-making. It is conceived with enthusiasm to raise awareness about our responsibility as citizen of communities, strengthen or create such community, and push the evolution of our society forward.
 
