@@ -4,11 +4,12 @@
 - MFA candidate, Department of Digital + Media, Rhode Island School of Design
 - September 9, 2013
 
+
 ## Background
 
 We live in a society consists of interconnected, complex systems. The production and labour system, the financial system, legal system, education system, and the political system. They define parameters and form preferences around which each of our lives is conducted and our choices are made. 
 
-Different institutions embody and practice the ideas and purposes of each of these systems. They act with far greater power than any of the individuals who has formed and empowered them. It is these institutions which effectively shape the society today, thus the lives of every one of us. However, it is often the case that these institutions are becoming not a greenhouse, but obstructions against creativity and change, both internal and external.
+Different institutions embody and practice the ideas and purposes of each of these systems. They act with far greater power than any of the individuals who has formed and empowered them. It is these institutions which effectively shape the society today, thus the lives of every one of us. However, it is often the case that these institutions are becoming not promoters, but oppressors against creativity and change, both internal and external.
 
 Institutions are so common in our lives these days that in our day-to-day conversations, we talk of them as if they were people like us. It is easy to say things for the ease of communication,  and we rarely think about the ramification of such over-simplification. There is real danger, in this case, behind anthropomorphism, this unconscious equation we all have between man-made objects and men. By making institutions sound like people, we risk of blurring the line of responsibility. We tend to forget that institutions are made of people. Ultimately, only people have the instruments of intelligence. Only people can make decisions. Only people can act upon the physical world. Institutions are not people. They do not have families or friends. They do not have emotions or believes. People do. Institutions are machines, people are not.
 
